@@ -5,9 +5,9 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class Main {
-    private static final String uk = "uk_final.json";
-    private static final String en = "en_final.json";
-    private static final String ru = "ru_final.json";
+    private static final String uk = "src/main/resources/uk_final.json";
+    private static final String en = "src/main/resources/en_final.json";
+    private static final String ru = "src/main/resources/ru_final.json";
 
     public static void main(String[] args) {
         //
