@@ -1,0 +1,629 @@
+{
+  "TABS": {
+    "ACTIVITY": "Activity",
+    "GAME": "Games",
+    "MAP": "Map",
+    "MY_BETS": "My Bets",
+    "MORE": "More"
+  },
+  "ALERTS": {
+    "SIGN_OUT": {
+      "TITLE": "Are you sure you want to sign out?",
+      "SUBTITLE": ""
+    },
+    "REMOVE_AVATAR": {
+      "TITLE": "Remove Current Picture",
+      "SUBTITLE": "Are you sure you want to remove current picture?",
+      "CONFIRM_BUTTON": "Remove"
+    },
+    "ERASE_BETSLIP": {
+      "TITLE": "Erase Betslip",
+      "SUBTITLE": "Are you sure you want to erase Betslip?",
+      "CONFIRM_BUTTON": "Yes"
+    },
+    "BET_CASHOUT": {
+      "TITLE": "Make Cashout",
+      "SUBTITLE": "Are you sure you want to make Cashout?",
+      "CONFIRM_BUTTON": "Yes"
+    },
+    "CHANGE_LANGUAGE": {
+      "TITLE": "Change language?",
+      "SUBTITLE": "After the confirmation, the application will close. Please, reopen it.",
+      "CONFIRM_BUTTON": "Yes"
+    },
+    "NEED_UPDATE": {
+      "TITLE": {
+        "RECOMMEND_UPDATE": "New Version Available",
+        "NEED_UPDATE": "Need To Update The App"
+      },
+      "MESSAGE": {
+        "CURRENT_VERSION": "Current version",
+        "NEW_VERSION": "New version"
+      },
+      "UPDATE": "Update",
+      "CANCEL": "Continue"
+    }
+  },
+  "MARKET_TABS": {
+    "ALL": "ALL"
+  },
+  "DIRECT": {
+    "TITLE": "Direct",
+    "EMPTY_ERROR": {
+      "TITLE": "It's Empty Here",
+      "MESSAGE": "You don’t have any messages"
+    }
+  },
+  "BUTTONS": {
+    "SIGN_IN": "Sign In",
+    "LOGIN": "Login",
+    "SIGN_UP": "Join",
+    "JOIN": "Join",
+    "SIGN_OUT": "Sign Out",
+    "FORGOT_PASSWORD": "Forgot password?",
+    "CANCEL": "Cancel",
+    "ADD_TO_BETSLIP": "Add To Betslip",
+    "ADD_TO_BETSLIP_ADD": "Added to Betslip",
+    "YES": "Yes",
+    "No": "No",
+    "OK": "OK",
+    "PLACE_BET": "Place Bet",
+    "ACCEPT_AND_PLACE_BET": "Accept and Place Bet",
+    "NEXT": "Next",
+    "SAVE": "Save"
+  },
+  "PARLAY": {
+     "MORE_THAN_TWO": "Parlay must contain at least two bets",
+     "REMOVE_DELETED": "Before bet - remove expired events"
+  },
+  "LOGIN": {
+    "INFO": {
+      "TITLE": "Welcome Back!",
+      "SUB_TITLE": "Sign In to your account",
+      "FOOTER": "Don’t have an account?"
+    },
+    "INPUTS": {
+      "USERNAME": "Username",
+      "PASSWORD": "Password",
+      "FIRST_NAME": "First Name",
+      "LAST_NAME": "Last Name",
+      "BIRTH_DATE": "Birth Date",
+      "EMAIL": "Email",
+      "COUNTRY": "Country",
+      "CITY": "City",
+      "ADDRESS": "Address",
+      "PHONE": "Phone Number",
+      "GENDER":  "Gender"
+    }
+  },
+  "REGISTRATION": {
+    "INFO": {
+      "TITLE": "Sign Up",
+      "SUB_TITLE": "Sign Up your account",
+      "ENTER_CODE": "Please enter code from sms to confirm"
+    },
+    "NAVIGATION": {
+      "NEXT_STEP": "Next",
+      "PREV_STEP": "Previous",
+      "SIGN_UP": "Sign Up",
+      "ACCEPT": "Accept"
+    },
+    "RESULT": {
+      "REG_IS_DONE_HEAD": "Registration completed",
+      "REG_IS_DONE_TEXT": "You have received an activation email. Please click on the link in the email to continue."
+    },
+    "GENDER_NAME": {
+      "F": "Female",
+      "M": "Male"
+    },
+    "INPUTS": {
+      "USERNAME": "Username",
+      "PASSWORD": "Password",
+      "FIRST_NAME": "First Name",
+      "LAST_NAME": "Last Name",
+      "DATE_OF_BIRTH": "Date of Birth",
+      "EMAIL": "Email",
+      "COUNTRY": "Country",
+      "GENDER": "Gender",
+      "SELECT_YOUR_GENDER": "Select your gender",
+      "PASSPORT_NUMBER": "Passport Number",
+      "PHONE_NUMBER": "Phone Number",
+      "SMS_CODE": "SMS Code",
+      "TERM_COND_1": "I agree to all ",
+      "TERM_COND_LINK": "Terms & Conditions",
+      "TERM_COND_2": "and i am older",
+      "TERM_COND_3": ", have read and accepted the general terms and conditions."
+    },
+    "ERRORS": {
+      "ERROR_1": "TEXT of error 1",
+      "EMPTY_CAPTCHA": "Wrong captcha"
+    }
+  },
+  "MORE": {
+    "TITLES": {
+      "WALLET": "Wallet",
+      "SETTINGS": "Settings",
+      "HELP": "Help"
+    },
+    "BUTTONS": {
+      "DEPOSIT": "Deposit",
+      "WITHDRAWAL": "Withdrawal",
+      "PAYMENT_HISTORY": "Payment History",
+      "SECURITY": "Security",
+      "LANGUAGE": "Language",
+      "COLOR_THEME": "Color Theme",
+      "TIME": "Time",
+      "ODDS_CHANGES": "Odds Changes",
+      "CASHOUT_CHANGES": "Cashout Changes",
+      "ODDS_FORMAT": "Odds Format",
+      "FAQ": "FAQ",
+      "CONTACT_US": "Contact Us",
+      "TERMS_CONDITIONS": "Terms & Conditions",
+      "OPEN_SOURCE_LICENSE": "Open Source License",
+      "RESPONSIBLE_GAMBLING": "Responsible Gambling",
+      "LICENSES_INFO": "Licenses Info",
+      "APP_VERSION": "Application version"
+    },
+    "NAVIGATION": {
+      "PROFILE": "Profile",
+      "PERSONAL_INFORMATION": "Personal Information",
+      "SELECT_PICTURE": "Select Picture"
+    },
+    "LANGUAGES": {
+      "EN": "English",
+      "RU": "Русский",
+      "UK": "Українська",
+      "HY": "հայերեն"
+    }
+  },
+  "ACTIVITY": {
+    "SEGMENTS": {
+      "EURO": "EURO 2020",
+      "QUESTS": "Quests",
+      "ACHIEVEMENTS": "Achievements"
+    },
+    "EURO_TITLE": "UEFA Euro 2020 Achievements",
+    "ACHIEVEMENTS": {
+      "TITLES": {
+        "EXTRA_ACHIEVEMENTS": "Extra Achievements",
+        "ACHIEVEMENTS": "Achievements"
+      }
+    }
+  },
+  "ACTIVITY_INFO": {
+    "TITLE": "About achievements",
+    "CONTENT": {
+      "TITLE": "\"Achievements\" ",
+      "FIRST_SENTENCE": "- a menu for active users, adventurers, sports fans, and collectors",
+      "ICON_TITLE": "How does it work?",
+      "FIRST_ICON": "Familiarize yourself with the rules for fulfilling achievement",
+      "SECOND_ICON": "Follow the steps described in the rules",
+      "THIRD_ICON": "Replenish the collection of medals",
+      "FORTH_ICON": "Get rewards (caps, cups, hoodie, free bets, deposit bonuses, increased odds, and other interests)",
+      "TEXT": "Some awards are easy to get, and for some, you will have to sweat a lot. But the more complicated the way, the sweeter the reward, isn't it?",
+      "BUTTON": "Additional information"
+    }
+  },
+  "MAP": {
+    "EURO": "EURO 2020"
+  },
+  "STADIUM_MODAL": {
+    "EMPTY_STATE": {
+      "MAIN_TEXT": "No Events Today",
+      "TEXT": "There are no activities today. Look at another day."
+    }
+  },
+  "CALENDAR": {
+    "MONTHS": {
+      "JUNE": "June 2021",
+      "JUNE_JULY": "June - July 2021",
+      "JULY": "July 2021"
+    }
+  },
+  "MY_BETS": {
+    "RESULT": "result",
+    "SEGMENTS": {
+      "OPEN_BETS": "Open Bets",
+      "SETTLED_BETS": "Settled Bets"
+    },
+    "NOT_BETS": {
+      "TITLE": "No Bets Found",
+      "SUB_TITLE": "Here will be your not finished events. Let’s play!",
+      "SUB_TITLE_2": "Here will be your finished events. Let’s play!"
+    },
+    "NO_LOGIN": {
+      "TITLE": "Please Sing In",
+      "SUB_TITLE": "You will see your open and settled bets after sign in"
+    },
+    "UPDATING_DATA": {
+      "TITLE": "Updating Data",
+      "MESSAGE": "Loading data, please wait."
+    }
+  },
+  "ERRORS": {
+    "NO_INTERNET": "No Internet Connection",
+    "UPDATING_DATA": "Updating data",
+    "INPUTS": {
+      "EMAIL": "Enter correct email",
+      "REQUIRED": "This field is required",
+      "AMOUNT": "Enter the correct amount"
+    }
+  },
+  "QUICK_BET": {
+    "POTENTIAL": "Potential Winnings:",
+    "SUCCESS": "Success!",
+    "ACCEPT": "Your bet has been accepted!"
+  },
+  "LIVE_SPORT_TABS": {
+    "POPULAR": "Popular",
+    "FOOTBALL":  "Football",
+    "ICE_HOCKEY": "Ice Hockey",
+    "BASKETBALL":  "Basketball",
+    "TENNIS": "Tennis",
+    "VOLLEYBALL":  "Volleyball",
+    "AMERICAN_FOOTBALL": "American Football",
+    "ATHLETICS":  "Athletics",
+    "AUSSIE_RULES": "Aussie Rules",
+    "BADMINTON":  "Badminton",
+    "BANDY": "Bandy",
+    "BASEBALL":  "Baseball",
+    "BEACH_FOOTBALL": "Beach Football",
+    "BEACH_HANDBALL":  "Beach Handball",
+    "BEACH_VOLLEYBALL": "Beach Volleyball",
+    "BIATHLON":  "Biathlon",
+    "BOWLS": "Bowls",
+    "BOXING":  "Boxing",
+    "CHESS": "Chess",
+    "CRICKET":  "Cricket",
+    "CURLING": "Curling",
+    "CYCLING":  "Cycling",
+    "DARTS": "Darts",
+    "DIVING":  "Diving",
+    "FLOORBALL": "Floorball",
+    "FORMULA_1":  "Formula 1",
+    "FUTSAL": "Futsal",
+    "GOLF":  "Golf",
+    "GYMNASTICS": "Gymnastics",
+    "HANDBALL":  "Handball",
+    "FIELD_HOCKEY": "Field hockey",
+    "HORSE_RACING":  "Horse Racing",
+    "MOTORBIKES": "Motorbikes",
+    "NASCAR":  "NASCAR",
+    "POOL": "Pool",
+    "RALLY":  "Rally",
+    "RUGBY_LEAGUE": "Rugby League",
+    "RUGBY_UNION":  "Rugby Union",
+    "SHOOTING": "Shooting",
+    "SNOOKER":  "Snooker",
+    "SWIMMING": "Swimming",
+    "TABLE_TENNIS":  "Table Tennis",
+    "WATER_POLO": "Water Polo",
+    "ELECTRONIC_SPORTS":  "Electronic sports",
+    "MMA": "MMA",
+    "VIRTUAL_SPORTS":  "Virtual Sports",
+    "VIRTUAL_HORSE_RACING": "Virtual Horse Racing",
+    "VIRTUAL_GREYHOUNDS":  "Virtual Greyhounds",
+    "VIRTUAL_TENNIS": "Virtual Tennis",
+    "VIRTUAL_FOOTBALL":  "Virtual Football",
+    "GAELIC_FOOTBALL": "Gaelic football",
+    "HURLING":  "Hurling",
+    "E_FOOTBALL": "E-Football",
+    "SURFING":  "Surfing",
+    "E_BASKETBALL": "E-Basketball",
+    "CALL_OF_DUTY":  "Call of Duty",
+    "COUNTER_STRIKE_GO": "CS:GO",
+    "DOTA_2":  "Dota 2",
+    "LEAGUE_OF_LEGENDS": "LoL",
+    "HEARTHSTONE":  "Hearthstone",
+    "HEROES_OF_THE_STORM": "Heroes of the Storm",
+    "OVERWATCH":  "Overwatch",
+    "SMITE": "Smite",
+    "STARCRAFT":  "StarCraft",
+    "STARCRAFT_2": "StarCraft 2",
+    "WORLD_OF_WARCRAFT":  "WoW",
+    "WORLD_OF_TANKS": "WoT",
+    "SUMO":  "Sumo",
+    "SPEEDWAY": "Speedway",
+    "SQUASH":  "Squash",
+    "POLITICS": "Politics",
+    "SPECIAL_BETS":  "Specials",
+    "ENTERTAINMENT": "Entertainment",
+    "OSCAR":  "Oscar",
+    "EUROVISION": "Eurovision",
+    "WHAT_WHERE_WHEN":  "WWW",
+    "RUGBY_SEVENS": "Rugby Sevens",
+    "CROSS_COUNTRY_SKIING":  "Cross-Country Skiing",
+    "SHORT_TRACK_SPEED_SKATING": "Short Track Speed Skating",
+    "FREESTYLE_SKIING":  "Freestyle Skiing",
+    "LUGE": "Luge",
+    "FIGURE_SKATING":  "Figure Skating",
+    "AUTO_RACING": "Auto Racing",
+    "ALPINE_SKIING":  "Alpine Skiing",
+    "SNOWBOARDING": "Snowboarding",
+    "PESAPALLO":  "Pesapallo",
+    "EXTREME_SPORT": "Extreme sport",
+    "SKI_JUMPING":  "Ski Jumping",
+    "TRIATHLON": "Triathlon",
+    "NETBALL":  "Netball",
+    "POKER": "Poker",
+    "LACROSSE":  "Lacrosse",
+    "ROWING": "Rowing",
+    "SAILING":  "Sailing",
+    "WWE": "WWE",
+    "FREESTYLE_WRESTLING":  "Freestyle Wrestling",
+    "GRECO_ROMAN_WRESTLING": "Greco-Roman Wrestling",
+    "RINK_HOCKEY":  "Rink Hockey",
+    "INLINE_HOCKEY": "Inline Hockey",
+    "VIRTUAL_CAR_RACING":  "Virtual Car Racing",
+    "OLYMPICS": "Olympics",
+    "VAINGLORY":  "Vainglory",
+    "WEIGHTLIFTING": "Weightlifting",
+    "SYNCHRONISED_SWIMMING":  "Synchronised Swimming",
+    "HEROES_OF_NEWERTH": "Heroes of Newerth",
+    "ARCHERY":  "Archery",
+    "LOTTERY": "Lottery",
+    "CANOEING":  "Canoeing",
+    "EQUESTRIAN": "Equestrian",
+    "FENCING":  "Fencing",
+    "JUDO": "Judo",
+    "MODERN_PENTATHLON":  "Modern Pentathlon",
+    "TAEKWONDO": "Taekwondo",
+    "RUSH_2_FOOTBALL":  "Rush 2 Football",
+    "INSPIRED_HORSE_RACING": "Inspired Horse Racing",
+    "MOTOR_RACING":  "Motor Racing",
+    "INSPIRED_SPEEDWAY": "Inspired Speedway",
+    "INSPIRED_CYCLING":  "Inspired Cycling",
+    "GREYHOUND_RACING": "Greyhound Racing",
+    "INSPIRED_TROTTING":  "Inspired Trotting",
+    "E_TENNIS": "E-Tennis",
+    "CROSSFIRE":  "CrossFire",
+    "HALO": "Halo",
+    "FIFA":  "FIFA",
+    "NORDIC_COMBINED": "Nordic Combined",
+    "GEARS_OF_WAR":  "Gears of War",
+    "INDOOR_HOCKEY": "Indoor Hockey",
+    "CLASH_ROYALE":  "Clash Royale",
+    "TV_SHOWS_AND_MOVIES": "TV Shows",
+    "MIXED_FOOTBALL":  "Mixed Football",
+    "STREET_FIGHTER_V": "Street Fighter V",
+    "VIRTUAL_BICYCLE":  "Virtual Bicycle",
+    "SKELETON": "Skeleton",
+    "BOBSLEIGH":  "Bobsleigh",
+    "TROTTING": "Trotting",
+    "MORTAL_KOMBAT_XL":  "Mortal Kombat XL",
+    "ROCKET_LEAGUE": "Rocket League",
+    "KING_OF_GLORY":  "King of Glory",
+    "BETONPOKER": "BetOnPoker",
+    "BETONBLACKJACK":  "Bet On BlackJack",
+    "LIVEBETONPOKER": "LIVE Bet On Poker",
+    "LIVEBETONBACCARAT":  "LIVE Bet On Baccarat",
+    "QUAKE": "Quake",
+    "PUBG":  "PUBG",
+    "KABADDI": "Kabaddi",
+    "UFC_2":  "UFC 2",
+    "STREET_FIGHTER": "Street Fighter",
+    "TEKKEN_7":  "Tekken 7",
+    "WARCRAFT_III": "Warcraft III",
+    "INTERNATIONAL_RULES":  "International Rules",
+    "BASKETBALL_SHOTS": "Basketball Shots"
+  },
+  "LIVE": {
+    "EMPTY_LIST": {
+      "TITLE": "Preparing for You!",
+      "MESSAGE": "Some special events, please check in a minute",
+      "BUTTON": "Try again"
+    }
+  },
+  "SWARM_BET_TYPES_ROLL": {
+    "SINGLE": "Single",
+    "MULTIPLE":"Multiple"
+  },
+  "SET_TIME_FOR_SPORT": {
+    "HALF": "half",
+    "QUARTER": "quarter",
+    "MAP": "map",
+    "SET": "set",
+    "HALF_TIME": "Half Time",
+    "TIMEOUT": "Timeout"
+  },
+  "QUARTERS_MATCH_INFO": {
+    "SET": "Set"
+  },
+  "BET_SLIP_PANEL": {
+    "OUTCOMES_IN_BET_SLIP": "outcomes in Betslip",
+    "PARLAY": "Multiple",
+    "SINGLE": "Single"
+  },
+  "BET_SLIP": {
+    "BUTTON_SINGLE": "Single",
+    "BUTTON_PARLAY": "Multiple",
+    "NAVIGATION_TITLE": "BetSlip"
+  },
+  "GAME": {
+    "NO_MARKETS_MAIN_TEXT": "No Available Markets",
+    "NO_MARKETS_TEXT": "Our traders are preparing something unique special for you soon.",
+    "EVENT_ENDED": {
+      "TITLE": "Event Ended",
+      "MESSAGE": "Let's try something new! There are a lot of interesting events here, check it out!"
+    }
+  },
+  "RECOMMENDS_CARD": {
+    "LIMITED_TIME_ACHIEVEMENTS": "Limited Time Achievements",
+    "LOOK_ON_A_MAP": "Look on a Map!",
+    "POPULAR_PARLAY": {
+      "_1": "Here a",
+      "_2": " Popular Multiple ",
+      "_3": "today! Ready to bet?"
+    }
+  },
+  "ACHIEVEMENTS_MODAL": {
+    "CONGRATULATION": "Congratulation!",
+    "GOT_ACHIEVEMENT_1": "You’ve Got",
+    "GOT_ACHIEVEMENT_2": "Achievement!"
+  },
+  "MENU_MODAL": {
+    "CHANGE_PROFILE_PHOTO": "Change Avatar",
+    "SELECT_PROFILE_PICTURE": "Select Avatar",
+    "REMOVE_PICTURE": "Remove Avatar"
+  },
+  "ODDS_CHANGES": {
+    "ALWAYS_ASK": "Ask me for any odds changes",
+    "HIGHER_ODDS": "Accept only higher odds changes",
+    "ANY_ODDS": "Accept all odds changes",
+    "INFO": "This parameter means whether the application will accept your bet if the odd changes"
+  },
+  "CASHOUT_CHANGES": {
+    "ALWAYS_ASK": "Ask me for any cashout changes",
+    "HIGHER_CASHOUT": "Accept only higher cashout changes",
+    "ACCEPT_ALL": "Accept all cashout changes",
+    "INFO": "This parameter means how the application will react to changes in the Cashout amount"
+  },
+  "BET_CARD": {
+    "POTENTIAL_WINNINGS": "Potential Winnings",
+    "WIN": "Win",
+    "AND": "and",
+    "OTHERS": "others",
+    "REFUND": "Refund",
+    "CASHED_OUT": "Cashout",
+    "CASHOUT": "Cashout",
+    "AMOUNT": "Amount: ",
+    "TOTAL_ODD": "Total Odd: ",
+    "BET": "Bet: ",
+    "DATE": "Stake Date: ",
+    "RESULT": "Result: "
+  },
+  "BET_ERRORS": {
+    "EVENT_DELETED_OR_MARKET_SUSPENDED_SELECTION": "Selection",
+    "EVENT_DELETED_OR_MARKET_SUSPENDED_END": "is suspended or deleted",
+    "INSUFFICIENT_BALANCE": "Insufficient balance",
+    "INTERNAL_ERROR": "Internal Error",
+    "USER_NOT_FOUND": "User not found",
+    "WRONG_LOGIN": "Wrong Login",
+    "USER_BLOCKED": "User blocked",
+    "USER_DISMISSED": "User dismissed",
+    "NOT_VERIFIED_VIA_EMAIL": "User is not verified via email",
+    "FORK_EXCEPTION": "Fork exception",
+    "GAME_STARTED": "Game started",
+    "GAME_START_TIME_PAST": "Game start time is already past",
+    "BET_EDITING_TIME_PAST": "Bet editing time is already past",
+    "BET_PAYED": "Bet is payed",
+    "BET_STATUS_NOT_FIXED": "Bet status not fixed",
+    "BET_LOSE": "Bet lose",
+    "BET_IS_ONLINE": "Bet is online",
+    "WRONG_VALUE_FOR_COEFFICIENT": "Wrong value for odd",
+    "WRONG_VALUE_FOR_AMOUNT": "Wrong value for amount (in case of system bet - amount is less than minimum allowed)",
+    "REQUEST_PAID": "Request is already paid!",
+    "REQUEST_STORED": "Request is already stored!",
+    "AMOUNT_NOT_VALID_RANGE": "Amount is not in valid range",
+    "BET_TYPE_ERROR": "Bet type error",
+    "BET_DECLINED_BY_SKKS": "Bet declined by SKKS",
+    "NOT_ALLOWED_TO_BET_EVENT": "You yet are not allowed to bet on the given event yet",
+    "CARD_LOT_BLOCKED": "Card lot blocked",
+    "SCRATCH_CARD_ACTIVATED": "Scratch card already activated",
+    "SCRATCH_CARD_BLOCKED": "Scratch card blocked",
+    "WRONG_SCRATCH_CARD_CURRENCY": "Wrong scratch card currency (not supported for user currency)",
+    "WRONG_VALUE_EXCEPTION": "Wrong value exception",
+    "WRONG_SCRATCH_CARD_NUMBER": "Wrong scratch card number",
+    "DOUBLE_VALUE_EXCEPTION": "Double value exception",
+    "DOUBLE_EVENT_EXCEPTION": "Double event exception",
+    "LIMIT_EXCEPTION": "Limit exception",
+    "EXCEEDS_SUM_MAX_LIMIT": "The sum exceeds maximum allowable limit",
+    "SUM_LESS_THAN_MIN_LIMIT": "The sum is less than minimum allowable limit",
+    "CORRECTION_OF_COEFFICIENT": "There is going the correction of odd.",
+    "WRONG_ACCESS_EXCEPTION": "Wrong access exception",
+    "ODDS_IS_CHANGED": "Odds is changed from %s to %s",
+    "EVENTS_CAN_BE_INCLUDED_ONLY_IN_THE_EXPRESS": "The events can be included only in the express",
+    "ODDS_RESTRICTION_EXCEPTION": "Odds restriction exception",
+    "CURRENCY_MISMATCH": "Currency mismatch",
+    "CLIENT_EXCLUDED": "Client excluded",
+    "CLIENT_LOCKED": "Client locked",
+    "MARKET_SUSPENDED": "Market suspended",
+    "GAME_SUSPENDED": "Game suspended",
+    "WRONG_REGION": "Wrong region",
+    "ACCESS_NOT_ACTIVATED": "Partner api access not activated",
+    "PARTNER_API_CLIENT_BALANCE_ERROR": "Partner api Client Balance Error",
+    "PARTNER_API_CLIENT_LIMIT_ERROR": "Partner api client limit error",
+    "PARTNER_API_EMPTY_METHOD": "Partner api empty method",
+    "PARTNER_API_EMPTY_REQUEST_BODY": "Partner api empty request body",
+    "PARTNER_API_MAX_LIMIT": "Partner api max allowable limit",
+    "PARTNER_API_MIN_LIMIT": "Partner api min allowable limit",
+    "PARTNER_API_PASSTOKEN_ERROR": "Partner api PassToken error",
+    "PARTNER_API_TIMESTAMP_EXPIRED": "Partner api timestamp expired",
+    "PARTNER_API_TOKEN_EXPIRED": "Partner api token expired",
+    "PARTNER_API_USER_BLOCKED": "Partner api user blocked",
+    "PARTNER_API_WRONG_HASH": "Partner api wrong hash",
+    "PARTNER_API_WRONG_LOGIN_EMAIL": "Partner api wrong login email",
+    "PARTNER_API_WRONG_ACCESS": "Partner api wrong access",
+    "PARTNER_NOT_FOUND": "Partner not found",
+    "PARTNER_COMMERCIAL_FEE_NOT_FOUND": "Partner commercial fee not found",
+    "SELECTION_NOT_FOUND": "Selection not found",
+    "SELECTION_COUNT_MISMATCH": "Selection count mismatch",
+    "EVENT_SUSPENDED": "Event suspended",
+    "SPORT_MISMATCH": "Sport mismatch",
+    "SPORT_NOT_SUPPORTED_FOR_THE_PARTNER": "Sport not supported for the partner",
+    "PAYMENT_RESTRICTION_EXCEPTION": "Payment restriction exception",
+    "CLIENT_LIMIT_EXCEPTION": "Client limit exception",
+    "WRONG_CURRENCY_CODE": "Wrong currency code",
+    "CURRENCY_NOT_SUPPORTED": "Currency not supported",
+    "NEGATIVE_AMOUNT": "Negative amount",
+    "BET_SELECTIONS_CANNOT_BE_CHAINED_TOGETHER": "Bet selections cannot be chained together",
+    "BONUS_NOT_FOUND": "Bonus not found",
+    "PARTNER_BONUS_NOT_FOUND": "Partner bonus not found",
+    "CLIENT_HAS_ACTIVE_BONUS": "Client has active bonus",
+    "INVALID_CLIENT_BONUS": "Invalid client bonus",
+    "CLIENT_RESTRICTED_FOR_ACTION": "Client restricted for action",
+    "EVENTS_CAN_BE_INCLUDED_ONLY_IN_THE_ORDINAR": "The events can be included only in the ordinar",
+    "PARTNER_NOT_SUPPORTED_TEST_CLIENT": "Partner not supported test client",
+    "PARTNER_NOT_USING_LOYALTY_PROGRAM": "Partner not using loyalty program",
+    "POINT_EXCHANGE_RANGE_EXCEED": "Point exchange range exceed",
+    "CLIENT_NOT_USING_LOYALTY_PROGRAM": "Client not using loyalty program",
+    "PARTNER_LIMIT_AMOUNT_EXCEED": "Partner limit amount exceed",
+    "CLIENT_HAS_ACCEPTED_BONUS": "Client has accepted bonus",
+    "PARTNER_API_ERROR": "Partner api error",
+    "TEAM_NOT_FOUND": "Team not found",
+    "INVALID_CLIENT_VERIFICATION_STEP_STATE": "Invalid client verification step state",
+    "PARTNER_SPORTS_BOOK_CURRENCY_SETTING": "Partner sports book currency setting",
+    "CLIENT_BET_MIN_STAKE_LIMIT_ERROR": "Client bet min stake limit error",
+    "MAX_DEPOSIT_REQUEST_SUM": "Max deposit request sum",
+    "EMAIL_WRONG_HASH": "Email wrong hash",
+    "CLIENT_ALREADY_SELF_EXCLUDED": "Client already self excluded",
+    "TRANSACTION_AMOUNT_EXCEEDS_FROZEN_MONEY": "Transaction amount exceeds frozen money",
+    "WRONG_HASH": "Wrong hash",
+    "ACCEPTED": "Accepted",
+    "PARTNER_MISMATCH": "Partner mismatch",
+    "MATCH_NOT_VISIBLE": "Match not visible",
+    "LOYALTY_LEVEL_NOT_FOUNT": "Loyalty level not found",
+    "PLACED_ON_HOLD": "Accepted, but placed on hold for review",
+    "ODDS_1000": "The maximum odds of 1000.00 has been reached"
+  },
+  "PARLAY_CARD": {
+    "MATCH_WINNER": "Match Winner",
+    "TOTAL_ODD": "Total Odd",
+    "TITLE": "Parlay Of The Day!"
+  },
+  "DEPOSIT": {
+    "ERROR": "Your account is restricted to replenish a deposit",
+    "BALANCE": "Balance",
+    "DEPOSIT_BUTTON_TEXT": "Deposit",
+    "ENTER_AMOUNT": "Enter amount",
+    "MIN": "min",
+    "MIN_VALUE": "Minimal value is",
+    "MAX_VALUE": "Maximal value is",
+    "STATE_MESSAGE": {
+      "SUCCESS": {
+        "TITLE": "Deposit Successful",
+        "MESSAGE": "Congratulations! Let's place couple of bets!",
+        "BUTTON_1": "Hurray!"
+      },
+      "FAIL": {
+        "TITLE": "Deposit Unsuccessful",
+        "MESSAGE": "Please contact us for the details.",
+        "BUTTON_1": "Contact Us"
+      }
+    }
+  },
+  "HELP_COMPONENT": {
+    "CASHOUT": "You can change the Cashout mode in the More",
+    "BET": "You can change the betting mode in the More"
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "TABS": {
+    "ACTIVITY": "Активность",
+    "GAME": "Игры",
+    "MAP": "Карта",
+    "MY_BETS": "Мои ставки",
+    "MORE": "Меню"
+  },
+  "ALERTS": {
+    "SIGN_OUT": {
+      "TITLE": "Вы уверены, что хотите выйти?",
+      "SUBTITLE": ""
+    },
+    "REMOVE_AVATAR": {
+      "TITLE": "Удалить аватар?",
+      "SUBTITLE": "Вы уверены, что хотите аватар",
+      "CONFIRM_BUTTON": "Да"
+    },
+    "ERASE_BETSLIP": {
+      "TITLE": "Очистить купон",
+      "SUBTITLE": "Вы уверены, что хотите очистить купон?",
+      "CONFIRM_BUTTON": "Да"
+    },
+    "BET_CASHOUT": {
+      "TITLE": "Сделать Cashout",
+      "SUBTITLE": "Вы уверены, что хотите сделать Cashout?",
+      "CONFIRM_BUTTON": "Да"
+    },
+    "CHANGE_LANGUAGE": {
+      "TITLE": "Сменить язык?",
+      "SUBTITLE": "После подтверждение приложение закроется. Пожалуйста, откройте его повторно.",
+      "CONFIRM_BUTTON": "Да"
+    },
+    "NEED_UPDATE": {
+      "TITLE": {
+        "RECOMMEND_UPDATE": "Доступна новая версия",
+        "NEED_UPDATE": "Требуется обновить приложение"
+      },
+      "MESSAGE": {
+        "CURRENT_VERSION": "Текущая версия",
+        "NEW_VERSION": "Новая версия"
+      },
+      "UPDATE": "Обновить",
+      "CANCEL": "Продолжить"
+    }
+  },
+  "MARKET_TABS": {
+    "ALL": "ВСЕ"
+  },
+  "DIRECT": {
+    "TITLE": "Сообщения",
+    "EMPTY_ERROR": {
+      "TITLE": "Пусто",
+      "MESSAGE": "У вас нет сообщений"
+    }
+  },
+  "BUTTONS": {
+    "SIGN_IN": "Войти",
+    "LOGIN": "Войти",
+    "SIGN_UP": "Регистрация",
+    "JOIN": "Регистрация",
+    "SIGN_OUT": "Выйти",
+    "FORGOT_PASSWORD": "Забыли пароль?",
+    "CANCEL": "Отменить",
+    "ADD_TO_BETSLIP": "Добавить в купон",
+    "ADD_TO_BETSLIP_ADD": "Добавлено в купон",
+    "YES": "Да",
+    "No": "Нет",
+    "OK": "ОК",
+    "PLACE_BET": "Сделать ставку",
+    "ACCEPT_AND_PLACE_BET": "Принять и сделать ставку",
+    "NEXT": "Далее",
+    "SAVE": "Сохранить"
+  },
+  "PARLAY": {
+    "MORE_THAN_TWO": "В экспрессе должно быть хотя бы две ставки",
+    "REMOVE_DELETED": "Перед ставкой - удалите завершенные события"
+  },
+  "LOGIN": {
+    "INFO": {
+      "TITLE": "Приветствуем!",
+      "SUB_TITLE": "Войдите в свой аккаунт",
+      "FOOTER": "У Вас нет аккаунта?"
+    },
+    "INPUTS": {
+      "USERNAME": "Имя пользователя",
+      "PASSWORD": "Пароль",
+      "FIRST_NAME": "Имя ",
+      "LAST_NAME": "Фамилия",
+      "BIRTH_DATE": "Дата рождения",
+      "EMAIL": "Эл. почта",
+      "COUNTRY": "Страна",
+      "CITY": "Город",
+      "ADDRESS": "Адрес",
+      "PHONE": "Номер телефона",
+      "GENDER": "Пол"
+    }
+  },
+  "REGISTRATION": {
+    "INFO": {
+      "TITLE": "Зарегистрироваться",
+      "SUB_TITLE": "Зарегистрируйте свой аккаунт",
+      "ENTER_CODE": "Пожалуйста, введите sms-код для подтверждения"
+    },
+    "NAVIGATION": {
+      "NEXT_STEP": "Далее",
+      "PREV_STEP": "Назад",
+      "SIGN_UP": "Зарегистрироваться",
+      "ACCEPT": "Принять"
+    },
+    "RESULT": {
+      "REG_IS_DONE_HEAD": "Поздравляем! Регистрация завершена",
+      "REG_IS_DONE_TEXT": "Вы получили эл. письмо активации. Пожалуйста, нажмите на ссылку в письме, чтобы продолжить."
+    },
+    "GENDER_NAME": {
+      "F": "Женский",
+      "M": "Мужской"
+    },
+    "INPUTS": {
+      "USERNAME": "Имя пользователя",
+      "PASSWORD": "Пароль",
+      "FIRST_NAME": "Имя",
+      "LAST_NAME": "Фамилия",
+      "DATE_OF_BIRTH": "Дата рождения",
+      "EMAIL": "Эл. почта",
+      "COUNTRY": "Страна",
+      "GENDER": "Пол",
+      "SELECT_YOUR_GENDER": "Выберите Ваш пол",
+      "PASSPORT_NUMBER": "Паспорт",
+      "PHONE_NUMBER": "Номер телефона",
+      "SMS_CODE": "SMS-код",
+      "TERM_COND_1": "Согласен(а) со всеми ",
+      "TERM_COND_LINK": "Положениями и Условиями",
+      "TERM_COND_2": "и я старше",
+      "TERM_COND_3": ", ознакомился(ась) и принял(а) общие положения и условия."
+    },
+    "ERRORS": {
+      "ERROR_1": "ТЕКСТ ошибки 1",
+      "EMPTY_CAPTCHA": "Неверная captcha"
+    }
+  },
+  "MORE": {
+    "TITLES": {
+      "WALLET": "Кошелек",
+      "SETTINGS": "Настройки",
+      "HELP": "Помощь"
+    },
+    "BUTTONS": {
+      "DEPOSIT": "Депозит",
+      "WITHDRAWAL": "Вывод",
+      "PAYMENT_HISTORY": "История платежей",
+      "SECURITY": "Безопасность",
+      "LANGUAGE": "Язык",
+      "COLOR_THEME": "Цвет темы",
+      "TIME": "Время",
+      "ODDS_CHANGES": "Изменения коэффициентов",
+      "CASHOUT_CHANGES": "Изменения суммы сashout",
+      "ODDS_FORMAT": "Формат коэффициентов",
+      "FAQ": "Частые вопросы",
+      "CONTACT_US": "Свяжитесь с нами",
+      "TERMS_CONDITIONS": "Положения и Условия",
+      "OPEN_SOURCE_LICENSE": "Открытая лицензия",
+      "RESPONSIBLE_GAMBLING": "Ответственная игра",
+      "LICENSES_INFO": "Информация о лицензиях",
+      "APP_VERSION": "Версия приложения"
+    },
+    "NAVIGATION": {
+      "PROFILE": "Профиль",
+      "PERSONAL_INFORMATION": "Персональная информация",
+      "SELECT_PICTURE": "Выберите аватар"
+    },
+    "LANGUAGES": {
+      "EN": "English",
+      "RU": "Русский",
+      "UK": "Українська",
+      "HY": "հայերեն"
+    }
+  },
+  "ACTIVITY": {
+    "SEGMENTS": {
+      "EURO": "ЕВРО 2020",
+      "QUESTS": "Квесты",
+      "ACHIEVEMENTS": "Достижения"
+    },
+    "EURO_TITLE": "УЕФА ЕВРО 2020 Достижения",
+    "ACHIEVEMENTS": {
+      "TITLES": {
+        "EXTRA_ACHIEVEMENTS": "Дополнительные достижения",
+        "ACHIEVEMENTS": "Достижения"
+      }
+    }
+  },
+  "ACTIVITY_INFO": {
+    "TITLE": "Про достижения",
+    "CONTENT": {
+      "TITLE": "\"Достижения\" ",
+      "FIRST_SENTENCE": "- меню для активных пользователей, искателей приключений, любителей спорта и коллекционеров",
+      "ICON_TITLE": "Как это работает?",
+      "FIRST_ICON": "Ознакомьтесь с правилами получения достижения",
+      "SECOND_ICON": "Выполните шаги описаны в правилах",
+      "THIRD_ICON": "Пополняйте коллекцию медалей",
+      "FORTH_ICON": "Получите награды (кепки, чашки, худи, бесплатные ставки, бонусы к депозитам, повышенные коэффициенты и другие интересности)",
+      "TEXT": "Некоторые награды получить легко, а для некоторых придется изрядно попотеть. Но чем тяжелее путь - тем слаще награда, не так ли?",
+      "BUTTON": "Дополнительная информация"
+    }
+  },
+  "MAP": {
+    "EURO": "ЕВРО 2020"
+  },
+  "STADIUM_MODAL": {
+    "EMPTY_STATE": {
+      "MAIN_TEXT": "Сегодня нет событий",
+      "TEXT": "Сегодня на стадионе никаких активностей. Выберите другой день"
+    }
+  },
+  "CALENDAR": {
+    "MONTHS": {
+      "JUNE": "Июнь 2021",
+      "JUNE_JULY": "Июнь - Июль 2021",
+      "JULY": "Июль 2021"
+    }
+  },
+  "MY_BETS": {
+    "RESULT": "результат",
+    "SEGMENTS": {
+      "OPEN_BETS": "Открытые ставки",
+      "SETTLED_BETS": "Рассчитанные ставки"
+    },
+    "NOT_BETS": {
+      "TITLE": "Ставки не найдены",
+      "SUB_TITLE": "Здесь будут Ваши ставки на незаконченные события. Давайте играть!",
+      "SUB_TITLE_2": "Здесь будут Ваши ставки на законченные события. Давайте играть!"
+    },
+    "NO_LOGIN": {
+      "TITLE": "Войдите",
+      "SUB_TITLE": "Вы увидите рассчитанные и не рассчитанные ставки после входа"
+    },
+    "UPDATING_DATA": {
+      "TITLE": "Обновление данных",
+      "MESSAGE": "Загружаем данные, пожалуйста подождите."
+    }
+  },
+  "ERRORS": {
+    "NO_INTERNET": "Нет Интернет соединения",
+    "UPDATING_DATA": "Обновление данных",
+    "INPUTS": {
+      "EMAIL": "Введите корректную эл. почту",
+      "REQUIRED": "Это поле обязательное",
+      "AMOUNT": "Введите корректную сумму"
+    }
+  },
+  "QUICK_BET": {
+    "POTENTIAL": "Возможный выигрыш:",
+    "SUCCESS": "Поздравляем!",
+    "ACCEPT": "Ставка принята!"
+  },
+  "LIVE_SPORT_TABS": {
+    "POPULAR": "Популярные",
+    "FOOTBALL": "Футбол",
+    "ICE_HOCKEY": "Хоккей",
+    "BASKETBALL": "Баскетбол",
+    "TENNIS": "Теннис",
+    "VOLLEYBALL": "Волейбол",
+    "AMERICAN_FOOTBALL": "Американский футбол",
+    "ATHLETICS": "Легкая атлетика",
+    "AUSSIE_RULES": "Австралийский футбол",
+    "BADMINTON": "Бадминтон",
+    "BANDY": "Хоккей с мячом",
+    "BASEBALL": "Бейсбол",
+    "BEACH_FOOTBALL": "Пляжный футбол",
+    "BEACH_HANDBALL": "Пляжный гандбол",
+    "BEACH_VOLLEYBALL": "Пляжный волейбол",
+    "BIATHLON": "Биатлон",
+    "BOWLS": "Боулз",
+    "BOXING": "Бокс",
+    "CHESS": "Шахматы",
+    "CRICKET": "Крикет",
+    "CURLING": "Керлинг",
+    "CYCLING": "Велоспорт",
+    "DARTS": "Дартс",
+    "DIVING": "Прыжки в воду",
+    "FLOORBALL": "Флорбол",
+    "FORMULA_1": "Формула 1",
+    "FUTSAL": "Футзал",
+    "GOLF": "Гольф",
+    "GYMNASTICS": "Гимнастика",
+    "HANDBALL": "Гандбол",
+    "FIELD_HOCKEY": "Хоккей на траве",
+    "HORSE_RACING": "Конный спорт",
+    "MOTORBIKES": "Мотоспорт",
+    "NASCAR": "НАСКАР",
+    "POOL": "Пул",
+    "RALLY": "Ралли",
+    "RUGBY_LEAGUE": "Регби Лига",
+    "RUGBY_UNION": "Регби Союз",
+    "SHOOTING": "Стрельба",
+    "SNOOKER": "Снукер",
+    "SWIMMING": "Плавание",
+    "TABLE_TENNIS": "Настольный теннис",
+    "WATER_POLO": "Водное Поло",
+    "ELECTRONIC_SPORTS": "Киберспорт",
+    "MMA": "ММА",
+    "VIRTUAL_SPORTS": "Виртуальный спорт",
+    "VIRTUAL_HORSE_RACING": "Виртуальный конный сапорт",
+    "VIRTUAL_GREYHOUNDS": "Виртуальный забег собак",
+    "VIRTUAL_TENNIS": "Виртуальный теннис",
+    "VIRTUAL_FOOTBALL": "Виртуальный футбол",
+    "GAELIC_FOOTBALL": "Гэльский футбол",
+    "HURLING": "Херлинг",
+    "E_FOOTBALL": "E-Football",
+    "SURFING": "Серфинг",
+    "E_BASKETBALL": "E-Basketball",
+    "CALL_OF_DUTY": "Call of Duty",
+    "COUNTER_STRIKE_GO": "CS:GO",
+    "DOTA_2": "Dota 2",
+    "LEAGUE_OF_LEGENDS": "LoL",
+    "HEARTHSTONE": "Hearthstone",
+    "HEROES_OF_THE_STORM": "Heroes of the Storm",
+    "OVERWATCH": "Overwatch",
+    "SMITE": "Smite",
+    "STARCRAFT": "StarCraft",
+    "STARCRAFT_2": "StarCraft 2",
+    "WORLD_OF_WARCRAFT": "WoW",
+    "WORLD_OF_TANKS": "WoT",
+    "SUMO": "Сумо",
+    "SPEEDWAY": "Спидвей",
+    "SQUASH": "Сквош",
+    "POLITICS": "Политика",
+    "SPECIAL_BETS": "Особенные",
+    "ENTERTAINMENT": "Развлечения",
+    "OSCAR": "Оскар",
+    "EUROVISION": "Евровидение",
+    "WHAT_WHERE_WHEN": "ЧГК",
+    "RUGBY_SEVENS": "Регби-7",
+    "CROSS_COUNTRY_SKIING": "Лыжные гонки",
+    "SHORT_TRACK_SPEED_SKATING": "Шорт-трек",
+    "FREESTYLE_SKIING": "Фристайл",
+    "LUGE": "Санный спорт",
+    "FIGURE_SKATING": "Фигурное катание",
+    "AUTO_RACING": "Автоспорт",
+    "ALPINE_SKIING": "Горнолыжный спорт",
+    "SNOWBOARDING": "Сноубординг",
+    "PESAPALLO": "Песапалло",
+    "EXTREME_SPORT": "Экстремальный спорт",
+    "SKI_JUMPING": "Прыжки с трамплина",
+    "TRIATHLON": "Триатлон",
+    "NETBALL": "Нетбол",
+    "POKER": "Покер",
+    "LACROSSE": "Лякросс",
+    "ROWING": "Академическая гребля",
+    "SAILING": "Парусный спорт",
+    "WWE": "WWE",
+    "FREESTYLE_WRESTLING": "Вольная борьба",
+    "GRECO_ROMAN_WRESTLING": "Греко-римская борьба",
+    "RINK_HOCKEY": "Хоккей на квадах",
+    "INLINE_HOCKEY": "Инлайн-хоккей",
+    "VIRTUAL_CAR_RACING": "Виртуальные автогонки",
+    "OLYMPICS": "Олимпийские игры",
+    "VAINGLORY": "Vainglory",
+    "WEIGHTLIFTING": "Тяжелая атлетика",
+    "SYNCHRONISED_SWIMMING": "Синхронное плавание",
+    "HEROES_OF_NEWERTH": "Heroes of Newerth",
+    "ARCHERY": "Стрельба из лука",
+    "LOTTERY": "Лотерея",
+    "CANOEING": "Гребля на каноэ",
+    "EQUESTRIAN": "Верховая езда",
+    "FENCING": "Фехтование",
+    "JUDO": "Дзюдо",
+    "MODERN_PENTATHLON": "Современное пятиборье",
+    "TAEKWONDO": "Тхэквондо",
+    "RUSH_2_FOOTBALL": "Rush 2 Football",
+    "INSPIRED_HORSE_RACING": "Inspired Horse Racing",
+    "MOTOR_RACING": "Моторный спорт",
+    "INSPIRED_SPEEDWAY": "Inspired Speedway",
+    "INSPIRED_CYCLING": "Inspired Cycling",
+    "GREYHOUND_RACING": "Забег собак",
+    "INSPIRED_TROTTING": "Inspired Trotting",
+    "E_TENNIS": "E-Tennis",
+    "CROSSFIRE": "CrossFire",
+    "HALO": "Halo",
+    "FIFA": "FIFA",
+    "NORDIC_COMBINED": "Лыжное двоеборье",
+    "GEARS_OF_WAR": "Gears of War",
+    "INDOOR_HOCKEY": "Индор-хоккей",
+    "CLASH_ROYALE": "Clash Royale",
+    "TV_SHOWS_AND_MOVIES": "ТВ Шоу",
+    "MIXED_FOOTBALL": "Смешанный футбол",
+    "STREET_FIGHTER_V": "Street Fighter V",
+    "VIRTUAL_BICYCLE": "Виртуальный Велоспорт",
+    "SKELETON": "Скелетон",
+    "BOBSLEIGH": "Бобслей",
+    "TROTTING": "Троттинг",
+    "MORTAL_KOMBAT_XL": "Mortal Kombat XL",
+    "ROCKET_LEAGUE": "Rocket League",
+    "KING_OF_GLORY": "King of Glory",
+    "BETONPOKER": "Ставки на Покер",
+    "BETONBLACKJACK": "Ставки на Блэкджек",
+    "LIVEBETONPOKER": "LIVE Ставки на Покер",
+    "LIVEBETONBACCARAT": "LIVE Ставки на Баккара",
+    "QUAKE": "Quake",
+    "PUBG": "PUBG",
+    "KABADDI": "Кабадди",
+    "UFC_2": "UFC 2",
+    "STREET_FIGHTER": "Street Fighter",
+    "TEKKEN_7": "Tekken 7",
+    "WARCRAFT_III": "Warcraft III",
+    "INTERNATIONAL_RULES": "Международные правила",
+    "BASKETBALL_SHOTS": "Баскетбольные броски"
+  },
+  "LIVE": {
+    "EMPTY_LIST": {
+      "TITLE": "Подготавливаем для Вас!",
+      "MESSAGE": "Некоторые особые события, пожалуйста, подождите несколько секунд",
+      "BUTTON": "Попробуйте еще раз"
+    }
+  },
+  "SWARM_BET_TYPES_ROLL": {
+    "SINGLE": "Ординар",
+    "MULTIPLE": "Экспресс"
+  },
+  "SET_TIME_FOR_SPORT": {
+    "HALF": "тайм",
+    "QUARTER": "четверть",
+    "MAP": "карта",
+    "SET": "сет",
+    "HALF_TIME": "Половина игры",
+    "TIMEOUT": "Таймаут"
+  },
+  "QUARTERS_MATCH_INFO": {
+    "SET": "Сет"
+  },
+  "BET_SLIP_PANEL": {
+    "OUTCOMES_IN_BET_SLIP": "исходы в Купоне",
+    "PARLAY": "Экспресс",
+    "SINGLE": "Ординар"
+  },
+  "BET_SLIP": {
+    "BUTTON_SINGLE": "Ординар",
+    "BUTTON_PARLAY": "Экспресс",
+    "NAVIGATION_TITLE": "Купон"
+  },
+  "GAME": {
+    "NO_MARKETS_MAIN_TEXT": "Нет доступных маркетов",
+    "NO_MARKETS_TEXT": "Наши трейдеры готовят для Вас нечто уникальное и особенное в ближайшее время.",
+    "EVENT_ENDED": {
+      "TITLE": "Событие закончилось",
+      "MESSAGE": "Давай попробуем что-нибудь новое! Здесь масса интересных событий, проверьте!"
+    }
+  },
+  "RECOMMENDS_CARD": {
+    "LIMITED_TIME_ACHIEVEMENTS": "Достижения за ограниченное время",
+    "LOOK_ON_A_MAP": "Посмотрите на карту",
+    "POPULAR_PARLAY": {
+      "_1": "Держите",
+      "_2": " Популярный Экспресс ",
+      "_3": "сегодня! Готовы сделать ставку?"
+    }
+  },
+  "ACHIEVEMENTS_MODAL": {
+    "CONGRATULATION": "Поздравляем!",
+    "GOT_ACHIEVEMENT_1": "У Вас новое",
+    "GOT_ACHIEVEMENT_2": "достижения!"
+  },
+  "MENU_MODAL": {
+    "CHANGE_PROFILE_PHOTO": "Изменить Аватар",
+    "SELECT_PROFILE_PICTURE": "Выберите Аватар",
+    "REMOVE_PICTURE": "Удалить Аватар"
+  },
+  "ODDS_CHANGES": {
+    "ALWAYS_ASK": "Предупредите меня о любых изменениях",
+    "HIGHER_ODDS": "Соглашаться только на увеличение",
+    "ANY_ODDS": "Соглашаться со всеми изменениями",
+    "INFO": "Этот параметр указывает, примет ли приложение вашу ставку при изменении коэффициента"
+  },
+  "CASHOUT_CHANGES": {
+    "ALWAYS_ASK": "Предупредите меня о любых изменениях суммы",
+    "HIGHER_CASHOUT": "Соглашаться только на увеличение суммы",
+    "ACCEPT_ALL": "Соглашаться со всеми изменениями суммы",
+    "INFO": "Этот параметр означает, как будет приложение реагировать на изменения суммы Cashout"
+  },
+  "BET_CARD": {
+    "POTENTIAL_WINNINGS": "Возможный выигрыш",
+    "WIN": "Выигрыш",
+    "AND": "и",
+    "OTHERS": "других",
+    "CASHED_OUT": "Cashout",
+    "REFUND": "Возврат",
+    "CASHOUT": "Cashout",
+    "AMOUNT": "Количество: ",
+    "TOTAL_ODD": "Коэффициент: ",
+    "BET": "Ставка: ",
+    "DATE": "Дата Ставки: ",
+    "RESULT": "Итог: "
+  },
+  "BET_ERRORS": {
+    "EVENT_DELETED_OR_MARKET_SUSPENDED_SELECTION": "Выбор",
+    "EVENT_DELETED_OR_MARKET_SUSPENDED_END": "приостановлен или удален",
+    "INSUFFICIENT_BALANCE": "Недостаточный баланс",
+    "INTERNAL_ERROR": "Внутренняя ошибка",
+    "USER_NOT_FOUND": "Пользователь не найден",
+    "WRONG_LOGIN": "Неправильный логин",
+    "USER_BLOCKED": "Пользователь заблокирован",
+    "USER_DISMISSED": "Пользователь удален",
+    "NOT_VERIFIED_VIA_EMAIL": "Пользователь не верифицирован по эл.почте",
+    "FORK_EXCEPTION": "Исключение вилки",
+    "GAME_STARTED": "Игра началась",
+    "GAME_START_TIME_PAST": "Время начала игры уже прошло",
+    "BET_EDITING_TIME_PAST": "Время редактирования ставки уже прошло",
+    "BET_PAYED": "Ставка выплачена",
+    "BET_STATUS_NOT_FIXED": "Статус ставки не зафиксирован",
+    "BET_LOSE": "Ставка проиграла",
+    "BET_IS_ONLINE": "Ставка онлайн",
+    "WRONG_VALUE_FOR_COEFFICIENT": "Неверное значение коэффициента",
+    "WRONG_VALUE_FOR_AMOUNT": "Неверное значение суммы (в случае ставки система - сумма меньше минимально разрешенной)",
+    "REQUEST_PAID": "Запрос уже оплачен!",
+    "REQUEST_STORED": "Запрос уже сохранен!",
+    "AMOUNT_NOT_VALID_RANGE": "Сумма находится вне допустимого диапазона",
+    "BET_TYPE_ERROR": "Ошибка типа ставки",
+    "BET_DECLINED_BY_SKKS": "Ставка отклонена SKKS",
+    "NOT_ALLOWED_TO_BET_EVENT": "Вам еще не разрешено делать ставки на данное событие",
+    "CARD_LOT_BLOCKED": "Лот карты заблокирован",
+    "SCRATCH_CARD_ACTIVATED": "Скретч-карта уже активирована",
+    "SCRATCH_CARD_BLOCKED": "Скретч-карта заблокирована",
+    "WRONG_SCRATCH_CARD_CURRENCY": "Неверная валюта cкретч-карты (валюта не поддерживается для пользователя)",
+    "WRONG_VALUE_EXCEPTION": "Исключение неверного значения",
+    "WRONG_SCRATCH_CARD_NUMBER": "Неверный номер скретч-карты",
+    "DOUBLE_VALUE_EXCEPTION": "Исключение двойного значения",
+    "DOUBLE_EVENT_EXCEPTION": "Исключение двойного события",
+    "LIMIT_EXCEPTION": "Исключение лимита",
+    "EXCEEDS_SUM_MAX_LIMIT": "Сумма больше максимально допустимого лимита",
+    "SUM_LESS_THAN_MIN_LIMIT": "Сумма меньше минимально допустимого лимита",
+    "CORRECTION_OF_COEFFICIENT": "Идет корректировка коэффициента.",
+    "WRONG_ACCESS_EXCEPTION": "Исключение неверного доступа",
+    "ODDS_IS_CHANGED": "Коэффициенты изменены с %s на %s",
+    "EVENTS_CAN_BE_INCLUDED_ONLY_IN_THE_EXPRESS": "События могут быть включены только в экспресс",
+    "ODDS_RESTRICTION_EXCEPTION": "Исключение ограничения коэффициентов",
+    "CURRENCY_MISMATCH": "Несоответствие валют",
+    "CLIENT_EXCLUDED": "Клиент исключен",
+    "CLIENT_LOCKED": "Клиент заблокирован",
+    "MARKET_SUSPENDED": "Маркет приостановлен",
+    "GAME_SUSPENDED": "Игра приостановлена",
+    "WRONG_REGION": "Неверный регион",
+    "ACCESS_NOT_ACTIVATED": "Доступ к  api партнера не активирован",
+    "PARTNER_API_CLIENT_BALANCE_ERROR": "Ошибка баланса клиента  api партнера",
+    "PARTNER_API_CLIENT_LIMIT_ERROR": "Ошибка лимита клиента  api партнера",
+    "PARTNER_API_EMPTY_METHOD": "Пустой метод api партнера",
+    "PARTNER_API_EMPTY_REQUEST_BODY": "Пустое тело запроса api партнера",
+    "PARTNER_API_MAX_LIMIT": "Максимально допустимый лимит api партнера",
+    "PARTNER_API_MIN_LIMIT": "Минимально допустимый лимит api партнера",
+    "PARTNER_API_PASSTOKEN_ERROR": "Ошибка токена передачи api партнера",
+    "PARTNER_API_TIMESTAMP_EXPIRED": "Метка времени api партнера истекла",
+    "PARTNER_API_TOKEN_EXPIRED": "Токен api партнера истек",
+    "PARTNER_API_USER_BLOCKED": "Пользователь api партнера заблокирован",
+    "PARTNER_API_WRONG_HASH": "Неверный хэш api партнера ",
+    "PARTNER_API_WRONG_LOGIN_EMAIL": "Неверная эл.почта логина api партнера ",
+    "PARTNER_API_WRONG_ACCESS": "Неверный доступ api партнера ",
+    "PARTNER_NOT_FOUND": "Партнер не найден ",
+    "PARTNER_COMMERCIAL_FEE_NOT_FOUND": "Коммерческий взнос партнера не найден",
+    "SELECTION_NOT_FOUND": "Событие не найдено",
+    "SELECTION_COUNT_MISMATCH": "Несоответствие количества событий",
+    "EVENT_SUSPENDED": "Событие приостановлено",
+    "SPORT_MISMATCH": "Несоответствие видов спорта",
+    "SPORT_NOT_SUPPORTED_FOR_THE_PARTNER": "Вид спорта не поддерживается для партнера",
+    "PAYMENT_RESTRICTION_EXCEPTION": "Исключение ограничения платежа",
+    "CLIENT_LIMIT_EXCEPTION": "Исключение лимита клиента",
+    "WRONG_CURRENCY_CODE": "Неверный код валюты",
+    "CURRENCY_NOT_SUPPORTED": "Валюта не поддерживается",
+    "NEGATIVE_AMOUNT": "Отрицательная сумма",
+    "BET_SELECTIONS_CANNOT_BE_CHAINED_TOGETHER": "События ставки не могут быть соеденены в цепочку",
+    "BONUS_NOT_FOUND": "Бонус не найден",
+    "PARTNER_BONUS_NOT_FOUND": "Бонус партнера не найден",
+    "CLIENT_HAS_ACTIVE_BONUS": "Клиент имеет активный бонус",
+    "INVALID_CLIENT_BONUS": "Недействительный бонус клиента",
+    "CLIENT_RESTRICTED_FOR_ACTION": "Действие клиента ограничено",
+    "EVENTS_CAN_BE_INCLUDED_ONLY_IN_THE_ORDINAR": "События могут быть включены только в ординар",
+    "PARTNER_NOT_SUPPORTED_TEST_CLIENT": "Партнер не поддерживает клиента теста",
+    "PARTNER_NOT_USING_LOYALTY_PROGRAM": "Партнер не использует программу лояльности ",
+    "POINT_EXCHANGE_RANGE_EXCEED": "Диапазон обмена очков превышен",
+    "CLIENT_NOT_USING_LOYALTY_PROGRAM": "Клиент не использует программу лояльности",
+    "PARTNER_LIMIT_AMOUNT_EXCEED": "Сумма лимита партнера превышена",
+    "CLIENT_HAS_ACCEPTED_BONUS": "Клиент принял бонус",
+    "PARTNER_API_ERROR": "Ошибка api партнера",
+    "TEAM_NOT_FOUND": "Команда не найдена",
+    "INVALID_CLIENT_VERIFICATION_STEP_STATE": "Недействительное состояние шага верификации клиента",
+    "PARTNER_SPORTS_BOOK_CURRENCY_SETTING": "Настройка валюты спортсбука партнера",
+    "CLIENT_BET_MIN_STAKE_LIMIT_ERROR": "Ошибка лимита минимальной суммы ставки клиента",
+    "MAX_DEPOSIT_REQUEST_SUM": "Максимальная сумма запроса депозита",
+    "EMAIL_WRONG_HASH": "Неверный хэш эл. почты",
+    "CLIENT_ALREADY_SELF_EXCLUDED": "Клиент уже самоисключен",
+    "TRANSACTION_AMOUNT_EXCEEDS_FROZEN_MONEY": "Сумма транзакции превышает сумму замороженных средств",
+    "WRONG_HASH": "Неверный хэш",
+    "ACCEPTED": "Принято",
+    "PARTNER_MISMATCH": "Несоответствие партнера",
+    "MATCH_NOT_VISIBLE": "Матч не отображается",
+    "LOYALTY_LEVEL_NOT_FOUNT": "Уровень лояльности не найден",
+    "PLACED_ON_HOLD": "Принято, но отложено для рассмотрения",
+    "ODDS_1000": "Достигнут максимальный коэффициент 1000.00"
+  },
+  "PARLAY_CARD": {
+    "MATCH_WINNER": "Победитель матча",
+    "TOTAL_ODD": "Коэффициент",
+    "TITLE": "Экспресс дня!"
+  },
+  "DEPOSIT": {
+    "ERROR": "Ваша учетная запись ограничена для пополнения депозита",
+    "BALANCE": "Баланс",
+    "DEPOSIT_BUTTON_TEXT": "Депозит",
+    "ENTER_AMOUNT": "Укажите сумму",
+    "MIN": "минимум",
+    "MIN_VALUE": "Минимальное значение",
+    "MAX_VALUE": "Максимальное значение",
+    "STATE_MESSAGE": {
+      "SUCCESS": {
+        "TITLE": "Успешный депозит",
+        "MESSAGE": "Поздравляю! Сделаем пару ставок!",
+        "BUTTON_1": "Ура!"
+      },
+      "FAIL": {
+        "TITLE": "Депозит не прошел",
+        "MESSAGE": "Пожалуйста, свяжитесь с нами для уточнения деталей.",
+        "BUTTON_1": "Связаться с нами"
+      }
+    }
+  },
+  "HELP_COMPONENT": {
+    "CASHOUT": "Режим Cashout вы можете изменить в Меню",
+    "BET": "Режим ставки вы можете изменить в Меню"
+  }
+}

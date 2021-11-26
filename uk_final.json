@@ -1,0 +1,629 @@
+{
+  "TABS": {
+    "ACTIVITY": "Активність",
+    "GAME": "Ігри",
+    "MAP": "Мапа",
+    "MY_BETS": "Мої ставки",
+    "MORE": "Меню"
+  },
+  "ALERTS": {
+    "SIGN_OUT": {
+      "TITLE": "Ви впевнені, що бажаєте вийти?",
+      "SUBTITLE": ""
+    },
+    "REMOVE_AVATAR": {
+      "TITLE": "Видалити аватар?",
+      "SUBTITLE": "Ви впевнені, що хочете аватар?",
+      "CONFIRM_BUTTON": "Так"
+    },
+    "ERASE_BETSLIP": {
+      "TITLE": "Очистити купон",
+      "SUBTITLE": "Ви впевнені, що хочете очистити купон?",
+      "CONFIRM_BUTTON": "Так"
+    },
+    "BET_CASHOUT": {
+      "TITLE": "Зробити Cashout",
+      "SUBTITLE": "Ви впевнені, що хочете зробити Cashout?",
+      "CONFIRM_BUTTON": "Так"
+    },
+    "CHANGE_LANGUAGE": {
+      "TITLE": "Змінити мову?",
+      "SUBTITLE": "Після підтвердження застосунок виключиться. Будь ласка, відкрийте його повторно.",
+      "CONFIRM_BUTTON": "Так"
+    },
+    "NEED_UPDATE": {
+      "TITLE": {
+        "RECOMMEND_UPDATE": "Доступна нова версія",
+        "NEED_UPDATE": "Потрібно оновити застосунок"
+      },
+      "MESSAGE": {
+        "CURRENT_VERSION": "Поточна версія",
+        "NEW_VERSION": "Нова версія"
+      },
+      "UPDATE": "Оновити",
+      "CANCEL": "Продовжити"
+    }
+  },
+  "MARKET_TABS": {
+    "ALL": "ВСЕ"
+  },
+  "DIRECT": {
+    "TITLE": "Повідомлення",
+    "EMPTY_ERROR": {
+      "TITLE": "Порожньо",
+      "MESSAGE": "У вас немає повідомлень"
+    }
+  },
+  "BUTTONS": {
+    "SIGN_IN": "Увійти",
+    "LOGIN": "Увійти",
+    "SIGN_UP": "Приєднатись",
+    "JOIN": "Приєднатись",
+    "SIGN_OUT": "Вийти",
+    "FORGOT_PASSWORD": "Забули пароль?",
+    "CANCEL": "Скасувати",
+    "ADD_TO_BETSLIP": "Додати в купон",
+    "ADD_TO_BETSLIP_ADD": "Додано в купон",
+    "YES": "Так",
+    "No": "Ні",
+    "OK": "ОК",
+    "PLACE_BET": "Зробити ставку",
+    "ACCEPT_AND_PLACE_BET": "Прийняти та зробити ставку",
+    "NEXT": "Далі",
+    "SAVE": "Зберегти"
+  },
+  "PARLAY": {
+    "MORE_THAN_TWO": "В експресі має бути хоча б дві ставки",
+    "REMOVE_DELETED": "Перед ставкою - видаліть неактивні події"
+  },
+  "LOGIN": {
+    "INFO": {
+      "TITLE": "Вітаємо!",
+      "SUB_TITLE": "Увійдіть до вашого акаунту",
+      "FOOTER": "Не маєте акаунту?"
+    },
+    "INPUTS": {
+      "USERNAME": "Ім'я користувача",
+      "PASSWORD": "Пароль",
+      "FIRST_NAME": "Ім'я",
+      "LAST_NAME": "Прізвище",
+      "BIRTH_DATE": "Дата народження",
+      "EMAIL": "Ел. пошта",
+      "COUNTRY": "Країна",
+      "CITY": "Місто",
+      "ADDRESS": "Адреса",
+      "PHONE": "Номер телефону",
+      "GENDER": "Стать"
+    }
+  },
+  "REGISTRATION": {
+    "INFO": {
+      "TITLE": "Зареєструватися",
+      "SUB_TITLE": "Зареєструйте свій аккаунт",
+      "ENTER_CODE": "Будь-ласка введіть код з смс, щоб підтвердити"
+    },
+    "NAVIGATION": {
+      "NEXT_STEP": "Наступний",
+      "PREV_STEP": "Попередній",
+      "SIGN_UP": "Зареєструватися",
+      "ACCEPT": "Прийняти"
+    },
+    "RESULT": {
+      "REG_IS_DONE_HEAD": "Реєстрація завершена",
+      "REG_IS_DONE_TEXT": "Ви отримали активаційний лист. Будь-ласка, перейдіть за посиланням у листі, щоб продовжити."
+    },
+    "GENDER_NAME": {
+      "F": "Жіноча",
+      "M": "Чоловіча"
+    },
+    "INPUTS": {
+      "USERNAME": "Ім'я користувача",
+      "PASSWORD": "Пароль",
+      "FIRST_NAME": "Ім'я",
+      "LAST_NAME": "Прізвище",
+      "DATE_OF_BIRTH": "Дата народження",
+      "EMAIL": "Ел. пошта",
+      "COUNTRY": "Країна",
+      "GENDER": "Стать",
+      "SELECT_YOUR_GENDER": "Оберіть вашу стать",
+      "PASSPORT_NUMBER": "Паспорт",
+      "PHONE_NUMBER": "Номер телефону",
+      "SMS_CODE": "СМС-код",
+      "TERM_COND_1": "Я погоджуюся з усіма ",
+      "TERM_COND_LINK": "Умовами та Положеннями",
+      "TERM_COND_2": "і мені більше",
+      "TERM_COND_3": ", і я прочитав(ла) та прийняв(ла) загальні умови та положення."
+    },
+    "ERRORS": {
+      "ERROR_1": "ТЕКСТ помилки 1",
+      "EMPTY_CAPTCHA": "Некоректна captcha"
+    }
+  },
+  "MORE": {
+    "TITLES": {
+      "WALLET": "Гаманець",
+      "SETTINGS": "Налаштування",
+      "HELP": "Довідка"
+    },
+    "BUTTONS": {
+      "DEPOSIT": "Депозит",
+      "WITHDRAWAL": "Виведення",
+      "PAYMENT_HISTORY": "Історія платежів",
+      "SECURITY": "Безпека",
+      "LANGUAGE": "Мова",
+      "COLOR_THEME": "Кольорова тема",
+      "TIME": "Час",
+      "ODDS_CHANGES": "Зміни коефіцієнтів",
+      "CASHOUT_CHANGES": "Зміни суми сashout",
+      "ODDS_FORMAT": "Формат коефіцієнтів",
+      "FAQ": "Часті запитання",
+      "CONTACT_US": "Зв'яжіться з нами",
+      "TERMS_CONDITIONS": "Умови та Положення",
+      "OPEN_SOURCE_LICENSE": "Відкрита ліцензія",
+      "RESPONSIBLE_GAMBLING": "Відповідальна гра",
+      "LICENSES_INFO": "Дані ліцензій",
+      "APP_VERSION": "Версія програми"
+    },
+    "NAVIGATION": {
+      "PROFILE": "Профіль",
+      "PERSONAL_INFORMATION": "Персональна інформація",
+      "SELECT_PICTURE": "Обрати аватар"
+    },
+    "LANGUAGES": {
+      "EN": "English",
+      "RU": "Русский",
+      "UK": "Українська",
+      "HY": "հայերեն"
+    }
+  },
+  "ACTIVITY": {
+    "SEGMENTS": {
+      "EURO": "ЄВРО 2020",
+      "QUESTS": "Квести",
+      "ACHIEVEMENTS": "Досягнення"
+    },
+    "EURO_TITLE": "УЄФА ЄВРО 2020 Досягнення",
+    "ACHIEVEMENTS": {
+      "TITLES": {
+        "EXTRA_ACHIEVEMENTS": "Додаткові досягнення",
+        "ACHIEVEMENTS": "Досягнення"
+      }
+    }
+  },
+  "ACTIVITY_INFO": {
+    "TITLE": "Про досягнення",
+    "CONTENT": {
+      "TITLE": "\"Досягнення\" ",
+      "FIRST_SENTENCE": "- меню для активних користувачів, шукачів пригод, любителів спорту та колекціонерів",
+      "ICON_TITLE": "Як це працює?",
+      "FIRST_ICON": "Ознайомтеся з правилами отримання досягнення",
+      "SECOND_ICON": "Виконайте кроки описані в правилах",
+      "THIRD_ICON": "Поповнюйте колекцію медалів",
+      "FORTH_ICON": "Отримайте нагороди (кепки, чашки, худі, безкоштовні ставки, бонуси до депозитів, підвищені коефіцієнти та інші цікавинки)",
+      "TEXT": "Деякі нагороди отримати легко, а для деяких доведеться неабияк попітніти. Але чим важчий шлях - тим солодша нагорода, чи не так?",
+      "BUTTON": "Додаткова інформація"
+    }
+  },
+  "MAP": {
+    "EURO": "ЄВРО 2020"
+  },
+  "STADIUM_MODAL": {
+    "EMPTY_STATE": {
+      "MAIN_TEXT": "Сьогодні немає подій",
+      "TEXT": "Сьогодні на стадіоні немає активностей. Виберіть інший день."
+    }
+  },
+  "CALENDAR": {
+    "MONTHS": {
+      "JUNE": "Червень 2021",
+      "JUNE_JULY": "Червень - Липень 2021",
+      "JULY": "Липень 2021"
+    }
+  },
+  "MY_BETS": {
+    "RESULT": "результат",
+    "SEGMENTS": {
+      "OPEN_BETS": "Відкриті ставки",
+      "SETTLED_BETS": "Розраховані ставки"
+    },
+    "NOT_BETS": {
+      "TITLE": "Ставки не знайдені",
+      "SUB_TITLE": "Тут будуть ваші ставки на незакінчені події. Зіграймо!",
+      "SUB_TITLE_2": "Тут будуть ваші ставки на закінчені події. Зіграймо!"
+    },
+    "NO_LOGIN": {
+      "TITLE": "Увійдіть",
+      "SUB_TITLE": "Ви побачите розраховані та не розраховані ставки після входу"
+    },
+    "UPDATING_DATA": {
+      "TITLE": "Оновлення даних",
+      "MESSAGE": "Завантажуємо дані, будь ласка почекайте."
+    }
+  },
+  "ERRORS": {
+    "NO_INTERNET": "Немає інтернет з'єднання",
+    "UPDATING_DATA": "Оновлення даних",
+    "INPUTS": {
+      "EMAIL": "Введіть коректну ел. пошту",
+      "REQUIRED": "Це поле обов'язкове",
+      "AMOUNT": "Введіть коректну суму"
+    }
+  },
+  "QUICK_BET": {
+    "POTENTIAL": "Потенційний виграш:",
+    "SUCCESS": "Вітаємо!",
+    "ACCEPT": "Ставка прийнята!"
+  },
+  "LIVE_SPORT_TABS": {
+    "POPULAR": "Популярні",
+    "FOOTBALL": "Футбол",
+    "ICE_HOCKEY": "Хокей",
+    "BASKETBALL": "Баскетбол",
+    "TENNIS": "Теніс",
+    "VOLLEYBALL": "Волейбол",
+    "AMERICAN_FOOTBALL": "Американський футбол",
+    "ATHLETICS": "Легка атлетика",
+    "AUSSIE_RULES": "Австралійський футбол",
+    "BADMINTON": "Бадмінтон",
+    "BANDY": "Хокей з м'ячем",
+    "BASEBALL": "Бейсбол",
+    "BEACH_FOOTBALL": "Пляжний футбол",
+    "BEACH_HANDBALL": "Пляжний гандбол",
+    "BEACH_VOLLEYBALL": "Пляжний волейбол",
+    "BIATHLON": "Біатлон",
+    "BOWLS": "Боулз",
+    "BOXING": "Бокс",
+    "CHESS": "Шахи",
+    "CRICKET": "Крикет",
+    "CURLING": "Керлінг",
+    "CYCLING": "Велоспорт",
+    "DARTS": "Дартс",
+    "DIVING": "Стрибки в воду",
+    "FLOORBALL": "Флорбол",
+    "FORMULA_1": "Формула 1",
+    "FUTSAL": "Футзал",
+    "GOLF": "Гольф",
+    "GYMNASTICS": "Гімнастика",
+    "HANDBALL": "Гандбол",
+    "FIELD_HOCKEY": "Хокей на траві",
+    "HORSE_RACING": "Кінний спорт",
+    "MOTORBIKES": "Мотоспорт",
+    "NASCAR": "НАСКАР",
+    "POOL": "Пул",
+    "RALLY": "Ралі",
+    "RUGBY_LEAGUE": "Регбі Ліга",
+    "RUGBY_UNION": "Регбі Союз",
+    "SHOOTING": "Стрільба",
+    "SNOOKER": "Снукер",
+    "SWIMMING": "Плавання",
+    "TABLE_TENNIS": "Настільний теніс",
+    "WATER_POLO": "Водне поло",
+    "ELECTRONIC_SPORTS": "Кіберспорт",
+    "MMA": "ММА",
+    "VIRTUAL_SPORTS": "Віртуальний спорт",
+    "VIRTUAL_HORSE_RACING": "Віртуальні кінний спорт",
+    "VIRTUAL_GREYHOUNDS": "Віртуальні собачі перегони",
+    "VIRTUAL_TENNIS": "Віртуальний теніс",
+    "VIRTUAL_FOOTBALL": "Віртуальний футбол",
+    "GAELIC_FOOTBALL": "Гельський футбол",
+    "HURLING": "Герлінг",
+    "E_FOOTBALL": "E-Football",
+    "SURFING": "Серфінг",
+    "E_BASKETBALL": "E-Basketball",
+    "CALL_OF_DUTY": "Call of Duty",
+    "COUNTER_STRIKE_GO": "CS:GO",
+    "DOTA_2": "Dota 2",
+    "LEAGUE_OF_LEGENDS": "LoL",
+    "HEARTHSTONE": "Hearthstone",
+    "HEROES_OF_THE_STORM": "Heroes of the Storm",
+    "OVERWATCH": "Overwatch",
+    "SMITE": "Smite",
+    "STARCRAFT": "StarCraft",
+    "STARCRAFT_2": "StarCraft 2",
+    "WORLD_OF_WARCRAFT": "WoW",
+    "WORLD_OF_TANKS": "WoT",
+    "SUMO": "Сумо",
+    "SPEEDWAY": "Спідвей",
+    "SQUASH": "Сквош",
+    "POLITICS": "Політика",
+    "SPECIAL_BETS": "Особливі",
+    "ENTERTAINMENT": "Розваги",
+    "OSCAR": "Оскар",
+    "EUROVISION": "Євробачення",
+    "WHAT_WHERE_WHEN": "ЩДК",
+    "RUGBY_SEVENS": "Регбі-7",
+    "CROSS_COUNTRY_SKIING": "Лижні перегони",
+    "SHORT_TRACK_SPEED_SKATING": "Шорт-трек",
+    "FREESTYLE_SKIING": "Фристайл",
+    "LUGE": "Санний спорт",
+    "FIGURE_SKATING": "Фігурне катання",
+    "AUTO_RACING": "Автомобільні перегони",
+    "ALPINE_SKIING": "Гірськолижний спорт",
+    "SNOWBOARDING": "Сноубординг",
+    "PESAPALLO": "Песапалло",
+    "EXTREME_SPORT": "Екстремальний спорт",
+    "SKI_JUMPING": "Стрибки з трампліна",
+    "TRIATHLON": "Тріатлон",
+    "NETBALL": "Нетбол",
+    "POKER": "Покер",
+    "LACROSSE": "Лакрос",
+    "ROWING": "Академічне веслування",
+    "SAILING": "Вітрильний спорт",
+    "WWE": "WWE",
+    "FREESTYLE_WRESTLING": "Вільна боротьба",
+    "GRECO_ROMAN_WRESTLING": "Греко-римська боротьба",
+    "RINK_HOCKEY": "Хокей на квадах",
+    "INLINE_HOCKEY": "Інлайн хокей",
+    "VIRTUAL_CAR_RACING": "Віртуальні автоперегони",
+    "OLYMPICS": "Олімпійські ігри",
+    "VAINGLORY": "Vainglory",
+    "WEIGHTLIFTING": "Важка атлетика",
+    "SYNCHRONISED_SWIMMING": "Синхронне плавання",
+    "HEROES_OF_NEWERTH": "Heroes of Newerth",
+    "ARCHERY": "Стрільба з лука",
+    "LOTTERY": "Лотерея",
+    "CANOEING": "Веслування на каное",
+    "EQUESTRIAN": "Верхова їзда",
+    "FENCING": "Фехтування",
+    "JUDO": "Дзюдо",
+    "MODERN_PENTATHLON": "Сучасне п'ятиборство",
+    "TAEKWONDO": "Тхеквондо",
+    "RUSH_2_FOOTBALL": "Rush 2 Football",
+    "INSPIRED_HORSE_RACING": "Inspired Horse Racing",
+    "MOTOR_RACING": "Моторний спорт",
+    "INSPIRED_SPEEDWAY": "Inspired Speedway",
+    "INSPIRED_CYCLING": "Inspired Cycling",
+    "GREYHOUND_RACING": "Собачі перегони",
+    "INSPIRED_TROTTING": "Inspired Trotting",
+    "E_TENNIS": "E-Tennis",
+    "CROSSFIRE": "CrossFire",
+    "HALO": "Halo",
+    "FIFA": "FIFA",
+    "NORDIC_COMBINED": "Лижне двоборство",
+    "GEARS_OF_WAR": "Gears of War",
+    "INDOOR_HOCKEY": "Індор-хокей",
+    "CLASH_ROYALE": "Clash Royale",
+    "TV_SHOWS_AND_MOVIES": "ТВ Шоу",
+    "MIXED_FOOTBALL": "Змішаний футбол",
+    "STREET_FIGHTER_V": "Street Fighter V",
+    "VIRTUAL_BICYCLE": "Віртуальний велоспорт",
+    "SKELETON": "Скелетон",
+    "BOBSLEIGH": "Бобслей",
+    "TROTTING": "Троттинг",
+    "MORTAL_KOMBAT_XL": "Mortal Kombat XL",
+    "ROCKET_LEAGUE": "Rocket League",
+    "KING_OF_GLORY": "King of Glory",
+    "BETONPOKER": "Ставки на покер",
+    "BETONBLACKJACK": "Ставки на блекджек",
+    "LIVEBETONPOKER": "LIVE ставки на покер",
+    "LIVEBETONBACCARAT": "LIVE ставки на баккару",
+    "QUAKE": "Quake",
+    "PUBG": "PUBG",
+    "KABADDI": "Кабадді",
+    "UFC_2": "UFC 2",
+    "STREET_FIGHTER": "Street Fighter",
+    "TEKKEN_7": "Tekken 7",
+    "WARCRAFT_III": "Warcraft III",
+    "INTERNATIONAL_RULES": "Міжнародні правила",
+    "BASKETBALL_SHOTS": "Баскетбольні кидки"
+  },
+  "LIVE": {
+    "EMPTY_LIST": {
+      "TITLE": "Готуємо для Вас!",
+      "MESSAGE": "Деякі особливі події, будь ласка, зачекайте кілька секунд",
+      "BUTTON": "Спробуйте ще раз"
+    }
+  },
+  "SWARM_BET_TYPES_ROLL": {
+    "SINGLE": "Ординар",
+    "MULTIPLE": "Експрес"
+  },
+  "SET_TIME_FOR_SPORT": {
+    "HALF": "тайм",
+    "QUARTER": "чверть",
+    "MAP": "мапа",
+    "SET": "сет",
+    "HALF_TIME": "Половина гри",
+    "TIMEOUT": "Таймаут"
+  },
+  "QUARTERS_MATCH_INFO": {
+    "SET": "Сет"
+  },
+  "BET_SLIP_PANEL": {
+    "OUTCOMES_IN_BET_SLIP": "результати у Купоні",
+    "PARLAY": "Експрес",
+    "SINGLE": "Ординар"
+  },
+  "BET_SLIP": {
+    "BUTTON_SINGLE": "Ординар",
+    "BUTTON_PARLAY": "Експрес",
+    "NAVIGATION_TITLE": "Купон"
+  },
+  "GAME": {
+    "NO_MARKETS_MAIN_TEXT": "Немає доступних маркетів",
+    "NO_MARKETS_TEXT": "Наші трейдери готують щось унікальне саме для вас",
+    "EVENT_ENDED": {
+      "TITLE": "Подія закінчилося",
+      "MESSAGE": "Давай спробуємо що-небудь нове! Тут маса цікавих подій, перевірте!"
+    }
+  },
+  "RECOMMENDS_CARD": {
+    "LIMITED_TIME_ACHIEVEMENTS": "Досягнення з обмеженим часом",
+    "LOOK_ON_A_MAP": "Подивіться на Мапу!",
+    "POPULAR_PARLAY": {
+      "_1": "Тримайте",
+      "_2": " Популярний Експрес ",
+      "_3": "сьогодні! Готові зробити ставку?"
+    }
+  },
+  "ACHIEVEMENTS_MODAL": {
+    "CONGRATULATION": "Вітаємо!",
+    "GOT_ACHIEVEMENT_1": "У вас нове",
+    "GOT_ACHIEVEMENT_2": "досягнення!"
+  },
+  "MENU_MODAL": {
+    "CHANGE_PROFILE_PHOTO": "Змінити Аватар",
+    "SELECT_PROFILE_PICTURE": "Обрати Аватар",
+    "REMOVE_PICTURE": "Прибрати Аватар"
+  },
+  "ODDS_CHANGES": {
+    "ALWAYS_ASK": "Питати у випадку будь-яких змін",
+    "HIGHER_ODDS": "Погоджуватись лише на зростання",
+    "ANY_ODDS": "Погоджуватись зі змінами",
+    "INFO": "Цей параметр означає, чи прийме застосунок вашу ставку, якщо коефіцієнт зміниться"
+  },
+  "CASHOUT_CHANGES": {
+    "ALWAYS_ASK": "Попереджувати у випадку будь-яких змін сум",
+    "HIGHER_CASHOUT": "Погоджуватись лише на зростання суми",
+    "ACCEPT_ALL": "Погоджуватись зі змінами суми",
+    "INFO": "Цей параметр означає, як буде застосунок реагувати на зміни суми Cashout"
+  },
+  "BET_CARD": {
+    "POTENTIAL_WINNINGS": "Потенційний виграш",
+    "WIN": "Виграш",
+    "AND": "та",
+    "OTHERS": "інших",
+    "CASHED_OUT": "Cashout",
+    "REFUND": "Повернення",
+    "CASHOUT": "Cashout",
+    "AMOUNT": "Кількість: ",
+    "TOTAL_ODD": "Коефіцієнт: ",
+    "BET": "Ставка: ",
+    "DATE": "Дата Ставки: ",
+    "RESULT": "Підсумок: "
+  },
+  "BET_ERRORS": {
+    "EVENT_DELETED_OR_MARKET_SUSPENDED_SELECTION": "Вибір",
+    "EVENT_DELETED_OR_MARKET_SUSPENDED_END": "призупинено або видалено",
+    "INSUFFICIENT_BALANCE": "Недостатній баланс",
+    "INTERNAL_ERROR": "Внутрішня помилка",
+    "USER_NOT_FOUND": "Користувач не знайдений",
+    "WRONG_LOGIN": "Неправильний логін",
+    "USER_BLOCKED": "Користувача заблоковано",
+    "USER_DISMISSED": "Користувача видалено",
+    "NOT_VERIFIED_VIA_EMAIL": "Користувач не верифікований через ел. пошту",
+    "FORK_EXCEPTION": "Виняток вилки",
+    "GAME_STARTED": "Гра почалася",
+    "GAME_START_TIME_PAST": "Час початку гри вже пройшов",
+    "BET_EDITING_TIME_PAST": "Час редагування ставки вже пройшов",
+    "BET_PAYED": "Ставка виплачена",
+    "BET_STATUS_NOT_FIXED": "Статус ставки не фіксований",
+    "BET_LOSE": "Ставка програла",
+    "BET_IS_ONLINE": "Ставка онлайн",
+    "WRONG_VALUE_FOR_COEFFICIENT": "Хибне значення для коефіцієнта",
+    "WRONG_VALUE_FOR_AMOUNT": "Хибне значення для суми (у випадку ставки Система - сума менша за мінімально дозволену)",
+    "REQUEST_PAID": "Запит вже виплачений!",
+    "REQUEST_STORED": "Запит вже збережений!",
+    "AMOUNT_NOT_VALID_RANGE": "Сума поза доступним діапазоном",
+    "BET_TYPE_ERROR": "Помилка типу ставки",
+    "BET_DECLINED_BY_SKKS": "Ставка відхилена SKKS",
+    "NOT_ALLOWED_TO_BET_EVENT": "Вам ще не дозволено ставити на дану подію",
+    "CARD_LOT_BLOCKED": "Лот картки заблокований",
+    "SCRATCH_CARD_ACTIVATED": "Скретч-картка вже активована",
+    "SCRATCH_CARD_BLOCKED": "Скретч-картка заблокована",
+    "WRONG_SCRATCH_CARD_CURRENCY": "Хибна валюта скретч-картки (не підтримується для валюти користувача)",
+    "WRONG_VALUE_EXCEPTION": "Виняток хибного значення",
+    "WRONG_SCRATCH_CARD_NUMBER": "Хибний номер скретч-картки",
+    "DOUBLE_VALUE_EXCEPTION": "Виняток подвійного значення",
+    "DOUBLE_EVENT_EXCEPTION": "Виняток подвійної події",
+    "LIMIT_EXCEPTION": "Виняток ліміту",
+    "EXCEEDS_SUM_MAX_LIMIT": "Сума перевищує максимальний дозволений ліміт",
+    "SUM_LESS_THAN_MIN_LIMIT": "Сума менша за мінімальний дозволений ліміт",
+    "CORRECTION_OF_COEFFICIENT": "Буде корекція коефіцієнта",
+    "WRONG_ACCESS_EXCEPTION": "Виняток хибного доступу",
+    "ODDS_IS_CHANGED": "Коефіцієнти змінені з %s до %s",
+    "EVENTS_CAN_BE_INCLUDED_ONLY_IN_THE_EXPRESS": "Події можуть бути включені тільки в експрес",
+    "ODDS_RESTRICTION_EXCEPTION": "Виняток обмеження коефіцієнтів",
+    "CURRENCY_MISMATCH": "Неспівпадіння валюти",
+    "CLIENT_EXCLUDED": "Клієнт виключений",
+    "CLIENT_LOCKED": "Клієнт заблокований",
+    "MARKET_SUSPENDED": "Маркет призупинений",
+    "GAME_SUSPENDED": "Гра призупинена",
+    "WRONG_REGION": "Хибний регіон",
+    "ACCESS_NOT_ACTIVATED": "Доступ до api Партнера не активований",
+    "PARTNER_API_CLIENT_BALANCE_ERROR": "Помилка Балансу клієнта api Партнера",
+    "PARTNER_API_CLIENT_LIMIT_ERROR": "Помилка ліміту клієнта api Партнера",
+    "PARTNER_API_EMPTY_METHOD": "Пустий метод api Партнера",
+    "PARTNER_API_EMPTY_REQUEST_BODY": "Пустий текст запиту api Партнера",
+    "PARTNER_API_MAX_LIMIT": "Максимальний дозволений ліміт api Партнера",
+    "PARTNER_API_MIN_LIMIT": "Мінімальний дозволений ліміт api Партнера",
+    "PARTNER_API_PASSTOKEN_ERROR": "Помилка токена передачі api Партнера",
+    "PARTNER_API_TIMESTAMP_EXPIRED": "Термін мітки часу api Партнера збіг",
+    "PARTNER_API_TOKEN_EXPIRED": "Термін токена api Партнера збіг",
+    "PARTNER_API_USER_BLOCKED": "Користувач api Партнера заблокований",
+    "PARTNER_API_WRONG_HASH": "Хибний хеш api Партнера",
+    "PARTNER_API_WRONG_LOGIN_EMAIL": "Хибна ел. пошта логіну api Партнера",
+    "PARTNER_API_WRONG_ACCESS": "Хибний доступ api Партнера",
+    "PARTNER_NOT_FOUND": "Партнер не знайдений",
+    "PARTNER_COMMERCIAL_FEE_NOT_FOUND": "Комерційний внесок Партнера не знайдений",
+    "SELECTION_NOT_FOUND": "Подія не знайдена",
+    "SELECTION_COUNT_MISMATCH": "Неспівпадіння кількості подій",
+    "EVENT_SUSPENDED": "Подія призупинена",
+    "SPORT_MISMATCH": "Неспівпадіння спорту",
+    "SPORT_NOT_SUPPORTED_FOR_THE_PARTNER": "Вид спорту не підтримується для партнера",
+    "PAYMENT_RESTRICTION_EXCEPTION": "Виняток обмеження оплати",
+    "CLIENT_LIMIT_EXCEPTION": "Виняток ліміту клієнта",
+    "WRONG_CURRENCY_CODE": "Хибний код валюти",
+    "CURRENCY_NOT_SUPPORTED": "Валюта не підтримується",
+    "NEGATIVE_AMOUNT": "Від'ємна сума",
+    "BET_SELECTIONS_CANNOT_BE_CHAINED_TOGETHER": "Події ставки не можуть бути поєднані",
+    "BONUS_NOT_FOUND": "Бонус не знайдений",
+    "PARTNER_BONUS_NOT_FOUND": "Бонус Партнера не знайдений",
+    "CLIENT_HAS_ACTIVE_BONUS": "Клієнт має активний бонус",
+    "INVALID_CLIENT_BONUS": "Хибний бонус клієнта",
+    "CLIENT_RESTRICTED_FOR_ACTION": "Клієнту дія не дозволена",
+    "EVENTS_CAN_BE_INCLUDED_ONLY_IN_THE_ORDINAR": "Події можуть бути включені тільки до ординару",
+    "PARTNER_NOT_SUPPORTED_TEST_CLIENT": "Партнер не підтримує тестового клієнта",
+    "PARTNER_NOT_USING_LOYALTY_PROGRAM": "Партнер не використовує програму лояльності",
+    "POINT_EXCHANGE_RANGE_EXCEED": "Перевищено діапазон обміну балів",
+    "CLIENT_NOT_USING_LOYALTY_PROGRAM": "Клієнт не використовує програму лояльності",
+    "PARTNER_LIMIT_AMOUNT_EXCEED": "Перевищена сума ліміту Партнера",
+    "CLIENT_HAS_ACCEPTED_BONUS": "Клієнт прийняв бонус",
+    "PARTNER_API_ERROR": "Помилка api Партнера",
+    "TEAM_NOT_FOUND": "Команда не знайдена",
+    "INVALID_CLIENT_VERIFICATION_STEP_STATE": "Хибний статус кроку верифікації клієнта",
+    "PARTNER_SPORTS_BOOK_CURRENCY_SETTING": "Налаштування валюти спортсбуку Партнера",
+    "CLIENT_BET_MIN_STAKE_LIMIT_ERROR": "Помилка ліміту мінімальної суми ставки Клієнта",
+    "MAX_DEPOSIT_REQUEST_SUM": "Максимальна сума запиту на депозит",
+    "EMAIL_WRONG_HASH": "Хибний хеш ел. пошти",
+    "CLIENT_ALREADY_SELF_EXCLUDED": "Клієнт вже самовиключився",
+    "TRANSACTION_AMOUNT_EXCEEDS_FROZEN_MONEY": "Сума транзакції перевищує заморожені кошти",
+    "WRONG_HASH": "Хибний хеш",
+    "ACCEPTED": "Прийнято",
+    "PARTNER_MISMATCH": "Неспівпадіння партнера",
+    "MATCH_NOT_VISIBLE": "Матч не видображається",
+    "LOYALTY_LEVEL_NOT_FOUNT": "Рівень лояльності не знайдений",
+    "PLACED_ON_HOLD": "Прийнято, проте призупинено та очікує розгляду",
+    "ODDS_1000": "Досягнуто максимального коефіцієнту 1000.00"
+  },
+  "PARLAY_CARD": {
+    "MATCH_WINNER": "Переможець матчу",
+    "TOTAL_ODD": "Коефіцієнт",
+    "TITLE": "Експрес дня!"
+  },
+  "DEPOSIT": {
+    "ERROR": "Ваш рахунок обмежений для поповнення депозиту",
+    "BALANCE": "Баланс",
+    "DEPOSIT_BUTTON_TEXT": "Депозит",
+    "ENTER_AMOUNT": "Введіть суму",
+    "MIN": "мінімум",
+    "MIN_VALUE": "Мінімальне значення",
+    "MAX_VALUE": "Максимальне значення",
+    "STATE_MESSAGE": {
+      "SUCCESS": {
+        "TITLE": "Успішний депозит",
+        "MESSAGE": "Вітаю! Зробимо пару ставок!",
+        "BUTTON_1": "Ура!"
+      },
+      "FAIL": {
+        "TITLE": "Депозит не пройшов",
+        "MESSAGE": "Будь ласка, зв'яжіться з нами для уточнення деталей.",
+        "BUTTON_1": "Зв'язатися з нами"
+      }
+    }
+  },
+  "HELP_COMPONENT": {
+    "CASHOUT": "Режим Cashout ви можете змінити в Меню",
+    "BET": "Режим ставки ви можете змінити в Меню"
+  }
+}
